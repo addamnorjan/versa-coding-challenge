@@ -21,7 +21,7 @@ BIG and number divisible by 5 with the word BANG. If the number is divisible by 
 4. Run the following command:
 
 ```bash
-  node Bigbang.js
+  node BigBang.js
 ```
 
 5. Upon successful execution of the code, the generated JSON file will be saved to the same directory as the BigBang.js file. The result will also be displayed on the console.
