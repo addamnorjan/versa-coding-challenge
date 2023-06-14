@@ -24,5 +24,5 @@ BIG and number divisible by 5 with the word BANG. If the number is divisible by 
   node Bigbang.js
 ```
 
-5. Upon successful execution of the code, the generted JSON file will be saved to the same directory as the BigBang.js file. The result will also be displayed on the console.
+5. Upon successful execution of the code, the generated JSON file will be saved to the same directory as the BigBang.js file. The result will also be displayed on the console.
 
