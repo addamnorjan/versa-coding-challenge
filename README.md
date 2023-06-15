@@ -12,7 +12,7 @@ BIG and number divisible by 5 with the word BANG. If the number is divisible by 
 
 ## Demo
 
-1. Make sure your device already has Node.js already installed.
+1. Make sure your device has Node.js already installed.
 
 2. Open Command Prompt.
 
